@@ -1,0 +1,19 @@
+{
+  "name": "google-translate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "google-translate-api-browser": "^1.1.71"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
